@@ -13,13 +13,13 @@ found in the LICENSE file.
         android:toYScale="1"
         android:pivotX="@fraction/menu_start_animation_pivot_x"
         android:pivotY="100%"
-        android:duration="250" />
+        android:duration="300" />
     <alpha android:interpolator="@anim/emphasized"
         android:fromAlpha="0" android:toAlpha="1"
-        android:duration="250" />
+        android:duration="300" />
     <translate android:interpolator="@anim/emphasized"
         android:fromYDelta="@dimen/menu_negative_software_vertical_offset"
         android:toYDelta="0"
         android:toXDelta="0"
-        android:duration="250" />
+        android:duration="300" />
 </set>
