@@ -12,8 +12,8 @@ found in the LICENSE file.
         android:fromYScale="0"
         android:toYScale="1"
         android:pivotX="@fraction/menu_animation_pivot_x"
-        android:pivotY="5%"
-        android:duration="250" />
+        android:pivotY="300"
+        android:duration="300" />
     <alpha android:interpolator="@anim/emphasized"
         android:fromAlpha="0" android:toAlpha="1"
         android:duration="250" />
