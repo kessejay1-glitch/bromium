@@ -9,5 +9,5 @@ found in the LICENSE file.
     <alpha android:interpolator="@anim/emphasized"
         android:fromAlpha="1"
         android:toAlpha="0"
-        android:duration="150" />
+        android:duration="200" />
 </set>
